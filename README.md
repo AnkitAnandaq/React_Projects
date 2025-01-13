@@ -2,8 +2,6 @@
 
 A simple and interactive accordion component built using **React** and styled with **Tailwind CSS**. The accordion allows users to expand and collapse sections to view more information.
 
-![React Accordion Screenshot](screenshot.png)
-
 ## Features
 
 - Dynamically renders accordion items from a data file.
@@ -13,14 +11,8 @@ A simple and interactive accordion component built using **React** and styled wi
 
 ---
 
-## Demo
-
-Check out the live demo: [Your Deployed Link](https://<your-username>.github.io/<repository-name>)
-
----
-
 ## Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/AnkitAnandaq/React_Projects.git
