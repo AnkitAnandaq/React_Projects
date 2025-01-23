@@ -41,13 +41,3 @@ A simple QR Code Generator built with React and styled using Tailwind CSS. This 
 - **Responsive Design**: Fully responsive layout using Tailwind CSS.
 - **Clean UI**: Minimal and modern design for a seamless user experience.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
-   cd qr-code-generator
-
-
-
-
