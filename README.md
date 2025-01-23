@@ -30,13 +30,24 @@ A responsive and customizable image slider built using **React** and styled with
 - Fully responsive with Tailwind CSS styling.
 - Loading screen while fetching data.
 
----
+# 3. QR Code Generator
+
+A simple QR Code Generator built with React and styled using Tailwind CSS. This application allows users to enter text or a URL and generate a QR code instantly.
+
+## Features
+
+- **Dynamic QR Code Generation**: Generate QR codes based on user input.
+- **Real-Time Validation**: Input field validates for non-empty values.
+- **Responsive Design**: Fully responsive layout using Tailwind CSS.
+- **Clean UI**: Minimal and modern design for a seamless user experience.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnkitAnandaq/React_Projects.git
+   git clone https://github.com/your-username/qr-code-generator.git
+   cd qr-code-generator
+
 
 
 
